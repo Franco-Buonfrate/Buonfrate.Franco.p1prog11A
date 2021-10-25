@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635164337 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\franco.buonfrate.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
